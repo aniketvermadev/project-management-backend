@@ -108,13 +108,6 @@ export const updateUser = async (req, res) => {
     const { id } = req.params;
     const { name, email, role } = req.body;
 
-    // Validate required fields
-    if (!name || !email || !role) {
-      return res.status(400).json({
-        message: "Name, email and role are required",
-      });
-    }
-
     // Validate role
     const allowedRoles = ["admin", "developer", "manager"];
 
