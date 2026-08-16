@@ -177,10 +177,10 @@ The project will gradually evolve into a complete project management backend.
 * [x] JWT authentication
 * [x] Protected routes
 * [x] Role-based authorization
-* [ ] Get users
-* [ ] Get user by ID
-* [ ] Update user
-* [ ] Delete user
+* [x] Get users
+* [x] Get user by ID
+* [x] Update user
+* [x] Delete user
 
 ### Phase 2 — Project Management
 
