@@ -38,37 +38,6 @@ The application currently supports two roles:
 
 More roles and permissions may be added as the project develops.
 
-## 📂 Project Structure
-
-```text
-project-management-backend/
-│
-├── src/
-│   ├── controllers/
-│   │   └── user.controller.js
-│   │
-│   ├── models/
-│   │   └── user.model.js
-│   │
-│   ├── routes/
-│   │   └── user.routes.js
-│   │
-│   ├── middleware/
-│   │
-│   ├── config/
-│   │   └── db.js
-│   │
-│   └── app.js
-│
-├── .env
-├── .gitignore
-├── package.json
-├── package-lock.json
-└── README.md
-```
-
-> The folder structure may change as new features are added.
-
 ## ⚙️ Installation
 
 Clone the repository:
