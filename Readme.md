@@ -184,12 +184,11 @@ The project will gradually evolve into a complete project management backend.
 
 ### Phase 2 — Project Management
 
-* [ ] Create project
-* [ ] Update project
-* [ ] Delete project
-* [ ] Get projects
-* [ ] Assign developers to projects
-* [ ] Project ownership
+* [x] Create project
+* [x] Update project
+* [x] Delete project
+* [x] Get projects
+* [x] Assign developers to projects
 
 ### Phase 3 — Task Management
 
