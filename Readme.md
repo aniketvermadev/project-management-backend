@@ -192,13 +192,13 @@ The project will gradually evolve into a complete project management backend.
 
 ### Phase 3 — Task Management
 
-* [ ] Create task
-* [ ] Assign task to developer
-* [ ] Update task
-* [ ] Delete task
-* [ ] Task status
-* [ ] Task priority
-* [ ] Task deadlines
+* [x] Create task
+* [x] Assign task to developer
+* [x] Update task
+* [x] Delete task
+* [] Task status
+* [] Task priority
+* [] Task deadlines
 
 ### Phase 4 — Advanced Features
 
